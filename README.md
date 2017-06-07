@@ -7,7 +7,7 @@ Open Terminal
  `git clone  https://github.com/akhilpy/Node-MySQL-JWT-Signup-Login-API.git`
 
  
- ` cd Project folder Name`
+ ` cd YourProjectFolderName`
  
 ` npm install`
 
