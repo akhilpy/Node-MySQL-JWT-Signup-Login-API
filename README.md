@@ -13,5 +13,9 @@ Open Terminal
 Open MySQL Client Application (phpmyadmin/sqlManager)
 Create Database and Import `users.sql` file.
 
+Then Back to terminal and run following command 
+
+`node sever.js`
+
 
   
