@@ -1,1 +1,1 @@
-# Node-MySQL-Sighup-Login-RESTful-API
+# Node-MySQL-Signup-Login-RESTful-API
