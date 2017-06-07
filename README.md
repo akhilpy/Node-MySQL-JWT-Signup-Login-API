@@ -2,9 +2,12 @@
 
 ## Setting up Project 
 
+### This repo is an example of Login-SignUP  API with NODE.js AND MYSQL and JWT(JSON Web Token) Authentication. 
+
 Open Terminal
 
- `git clone https://github.com/akhilpy/Node-MySQL-Signup-Login-RESTful-API.git`
+ `git clone  https://github.com/akhilpy/Node-MySQL-JWT-Signup-Login-API.git`
+
  
  ` cd Project folder Name`
  
