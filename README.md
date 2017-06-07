@@ -8,5 +8,10 @@ Open Terminal
  
  ` cd Project folder Name`
  
-``` npm install```
+` npm install`
+
+Open MySQL Client Application (phpmyadmin/sqlManager)
+Create Database and Import `users.sql` file.
+
+
   
