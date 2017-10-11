@@ -16,7 +16,7 @@ Create Database and Import `users.sql` file.
 
 Then Back to terminal and run following command 
 
-`node sever.js`
+`node server.js`
 
 
   
